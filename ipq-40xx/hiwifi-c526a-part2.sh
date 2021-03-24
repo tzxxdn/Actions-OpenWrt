@@ -65,7 +65,7 @@ CONFIG_PACKAGE_luci-app-openclash=y
 CONFIG_PACKAGE_luci-app-vssr=y
 CONFIG_PACKAGE_luci-app-vlmcsd=y
 CONFIG_PACKAGE_luci-app-qosv4=y
-
+CONFIG_PACKAGE_luci-app-turboacc=y
 EOF
 
 # 常用软件 默认已启用
